@@ -6,5 +6,6 @@ addons:
   apt:
     packages:
       - pandoc
+      - html-xml-utils
 
 script: make
