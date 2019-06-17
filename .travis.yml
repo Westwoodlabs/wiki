@@ -12,4 +12,4 @@ addons:
 script: |
   wget https://services.gradle.org/distributions/gradle-5.4.1-bin.zip -P /tmp
   sudo unzip -d /opt/gradle /tmp/gradle-*.zip
-  /opt/gradle/gradle-5.4.1/bin/gradle build
+  /opt/gradle/gradle-5.4.1/bin/gradle --console plain build
