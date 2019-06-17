@@ -1,5 +1,6 @@
 ---
 title: Hauptseite
+index-order: -1
 ---
 
 Hauptseite
@@ -8,3 +9,5 @@ Hauptseite
 |Projekte                       |
 |-------------------------------|
 |Schließsystem                  |
+
+Wir haben auch [Geräte](Geräte/index.html).

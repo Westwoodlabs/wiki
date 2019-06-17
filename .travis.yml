@@ -7,5 +7,6 @@ addons:
     packages:
       - pandoc
       - html-xml-utils
+      - gradle
 
-script: make
+script: gradle build
