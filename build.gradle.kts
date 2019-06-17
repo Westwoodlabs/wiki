@@ -52,9 +52,10 @@ file("src").walkTopDown().filter { it.isFile && it.extension == "md" }.forEach {
         doLast {
             exec {
                 standardOutput = FileOutputStream(outFile)
-                commandLine("sh", "-c", "pandoc --template template.html -B ${indexFile(it.parentFile)} $it | hxnormalize -l 1000 | hxpipe | " +
+                fun String.nameFilter(): String = this.replace(Regex("[\\\\'\"\\$`{}()><]"), "_")
+                commandLine("sh", "-c", "pandoc --template template.html -B '${indexFile(it.parentFile).nameFilter()}' '${it.toString().nameFilter()}' | hxnormalize -l 1000 | hxpipe | " +
                         "sed -E -e '/\\(table/i\\\\Aclass CDATA table table-hover' " +
-                        "    -e 's!(Ahref CDATA )\\{\\{webroot\\}\\}(.*)!\\1${file("src").toRelativeString(it.parentFile).ifEmpty {"."}}\\2!' " +
+                        "    -e 's!(Ahref CDATA )\\{\\{webroot\\}\\}(.*)!\\1${(file("src").toRelativeString(it.parentFile).ifEmpty {"."}).nameFilter()}\\2!' " +
                         "  | hxunpipe")
             }
         }
