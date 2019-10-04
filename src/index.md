@@ -6,8 +6,8 @@ index-order: -1
 Hauptseite
 ============
 
-|Projekte                       |
-|-------------------------------|
-|Schließsystem                  |
+|Projekte                                       |
+|-----------------------------------------------|
+|[Schließanlage](Projekte/Schliessanlage.html)  |
 
 Wir haben auch [Geräte](Geräte/index.html).
