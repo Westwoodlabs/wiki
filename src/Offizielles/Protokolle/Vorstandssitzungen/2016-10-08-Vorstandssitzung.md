@@ -5,11 +5,11 @@ title: Öffentliches Protokoll der 1. Vorstandssitzung vom 08. Oktober 2016
 Öffentliches Protokoll der 1. Vorstandssitzung vom 08. Oktober 2016
 ===================================================================
 
-Anwesend: (...)
-Entschuldigt: (...)
+**Anwesend:** (...) \
+**Entschuldigt:** (...)
 
-Beginn der Sitzung: 19:21 Uhr  
-Ende der Sitzung: 22:21 Uhr
+**Beginn der Sitzung:** 19:21 Uhr \
+**Ende der Sitzung:** 22:21 Uhr
 
 ## TOP 1. Begrüßung und Besprechung der Tagesordnung
 
@@ -125,9 +125,9 @@ Der Zugriff auf die Daten auf dem Server / in der VM muss auf den berechtigten B
 
 ## TOP 6a. Mitgliedsbeiträge (nichtöffentlicher Teil)
 
-**(nichtöffentlicher Teil der Vorstandssitzung entfernt)**
+*(nichtöffentlicher Teil der Vorstandssitzung entfernt)*
 
-**(nach schriftlichem Beschluss des Vorstands vom 09.10.2016 wird folgender Teil aus dem nichtöffentlichen Protokoll in das öffentliche Protokoll übernommen):**
+*(nach schriftlichem Beschluss des Vorstands vom 09.10.2016 wird folgender Teil aus dem nichtöffentlichen Protokoll in das öffentliche Protokoll übernommen):*
 
 Der Schatzmeister wird Mitglieder, die mindestens die Mitgliedsbeiträge für September und Oktober nicht beglichen haben, mit Zahlungsziel 7 Tage per E-Mail anmahnen.
 
@@ -139,7 +139,7 @@ Der Vorstand behandelt den einzigen Punkt aus „TOP 7 Sonstiges“ aufgrund per
 
 ## TOP 7a Sonstiges (nichtöffentlicher Teil)
 
-**(nichtöffentlicher Teil der Vorstandssitzung entfernt)**
+*(nichtöffentlicher Teil der Vorstandssitzung entfernt)*
 
 *22:21 Uhr --- Ende der Vorstandssitzung*
 
