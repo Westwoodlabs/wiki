@@ -20,7 +20,7 @@ ___
 2. Im § 11 „Auflösung des Vereins“ Absatz 2 wird die Formulierung „fallen die Finanzmittel“ durch die Formulierung „fällt das Vermögen“ ersetzt. Weiterhin wird hinter der Nennung der Empfänger von Vereinsvermögen und -Inventar eingefügt: „die/das es ausschließlich für gemeinnützige Zwecke zu verwenden hat“. Insgesamt hat der genannte Absatz nach der Änderung folgenden Wortlaut:
 „Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die DKMS gemeinnützige GmbH (Deutsche Knochenmarkspenderdatei) geführt unter der Nummer 381293 im Handelsregister Abteilung B des Amtsgerichts Stuttgart, die es ausschließlich für gemeinnützige Zwecke zu verwenden hat, sowie das Vereinsinventar an das Haus der Jugend Montabaur e.V., geführt unter Nummer 1133 im Vereinsregister des Amtsgerichts Montabaur, das es ausschließlich zu gemeinützigen Zwecken zu verwenden hat.“
 
----
+___
 Die Vorstandssitzung stimmt über den gestellten Antrag ab:\
 **Dafür: 3\
 Dagegen: 0\
