@@ -23,7 +23,7 @@ Vereinsvorstand beschlossen werden dürfen.
 
 Der Vorsitzende beantragt, die folgenden Änderungen am Wortlaut der Satzung, zu
 beschließen:
-___
+---
 Im §11 „Auflösung des Vereins“ Absatz 2 soll der Nennung der Empfänger von
 Vereinsvermögen und -Inventar die Formulierung „die/das es ausschließlich für
 gemeinnützige Zwecke zu verwenden hat“ konkretisiert werden zu „die/das es
@@ -38,90 +38,90 @@ es ausschließlich und unmittelbar für gemeinnützige Zwecke zu verwenden
 hat, sowie das Vereinsinventar an das Haus der Jugend Montabaur e.V.,geführt unter Nummer 1133 im Vereinsregister des Amtsgerichts Montabaur,
 das es ausschließlich und unmittelbar zu gemeinnützigen Zwecken zu
 verwenden hat.“
-___
+---
 Der Vorstand stimmt über den Antrag wie folgt ab:\
 **Dafür 5**\
 **Dagegen 0**\
 **Enthaltung 0**\
 Der Antrag wurde einstimmig angenommen.
-___
+---
 
 ## TOP 4. Beschlussfassung über die Weiterführung des Mietvertrags
 der durch den Verein genutzten Räumlichkeiten
 Der Mietvertrag über die durch den Verein genutzen Räume in der Rheinstraße 96 in
 Ransbach-Baumbach hat eine sechsmonatige Laufzeit und kann drei Monate vor
 Ablauf der Laufzeit gekündigt werden.
-___
+---
 Der Vorsitzende beantragt die Weiterführung des Mietvertrags für weitere sechs
 Monate zu beschließen.
-___
+---
 Der Vorstand stimmt über den Antrag wie folgt ab:\
 **Dafür 5**\
 **Dagegen 0**\
 **Enthaltung 0**\
 Der Antrag wurde einstimmig angenommen.
-___
+---
 Eine Erneute Entscheidung über die Fortführung des Mietvertrages soll durch den
 Vorstand im September 2020 getroffen werden.
 ##TOP 5. Beschlussfassung über das Weitere Vorgehen zur
 Inkraftsetzung einer Raumordnung für die durch den Verein
 genutzen Räume
-___
+---
 Aufgrund der derzeitigen, durch die COVID-19-Pandemie bedingten Nichtnutzung
 der Räumlichkeiten beantragt der Vorsitzende, den Beschluss über die
 Inkraftsetzung einer Raumordnung zu vertagen.
-___
+---
 Der Vorstand stimmt über den Antrag wie folgt ab:\
 **Dafür 5**\
 **Dagegen 0**\
 **Enthaltung 0**\
 Der Antrag wurde einstimmig angenommen.
-___
+---
 ##TOP 6. Beschlussfassung zum Weiteren Vorgehen nach erfolgter
 Eintragung des Vereins
-___
+---
 Der Vorsitzende beantragt, im Nachgang der noch ausstehenden Eintragung ins das
 Vereinsregister ein Vereinskonto bei der Westerwaldbank zu eröffnen. Ein solches
 Vereinskonto gibt uns die Möglichkeit, die monatlichen Beiträge der
 Vereinsmitglieder per Lastschrift einzuziehen. Die Westerwaldbank bietet
 Vereinskonten für eingetragene Vereine kostenlos an.
-___
+---
 Der Vorstand stimmt über den Antrag wie folgt ab:\
 **Dafür 5**\
 **Dagegen 0**\
 **Enthaltung 0**\
 Der Antrag wurde einstimmig angenommen.
-___
+---
 ##TOP 7. Beschlussfassung zur Ausgabe von Schlüsseln
 Der Vermieter der für Vereinszwecke genutzten Räumlichkeiten bietet die Ausgabe
 mehrerer Transponder-Schlüssel an Vereinsmitglieder an. Die Transponder-
 Schließanlage wird nach Aussagen des Vermieters in naher Zukunft in Betrieb
 genommen. Für die Ausgabe der Transponder fallen pro Transponder Kosten in
 einer Größenordnung von 10 bis 15 Euro an.
-___
+---
 Der Vorsitzende schlägt vor, dass die Vereinsmitglieder, die Transponder für die
 Außentür erhalten, aufgefordert werden, einen Betrag in der Höhe der anfallenden
 Kosten dem Verein zu erstatten.
-___
+---
 Der Vorstand stimmt über den Antrag wie folgt ab:\
 **Dafür 5**\
 **Dagegen 0**\
 **Enthaltung 0**\
 Der Antrag wurde einstimmig angenommen.
-___
+---
 ##TOP 8. Beschlussfassung über die Zuteilung von
 SchließberechtigungenDer Vorstand bespricht die Zuteilung von Schließberechtigungen für die (innere)
 Zugangstür der Räumlichkeiten. Derzeit werden Schließberechtigungen durch den
 Vorsitzenden erteilt, der gleichzeitig auch Mieter der Räumlichkeiten ist.
-___
+---
 Der Vorsitzende beantragt die Zuteilungspraxis auf der nächsten
 Mitgliederversammlung zu diskutieren, mit dem Ziel einen durch die
 Vereinsmitglieder getragenen Prozess für die Zuteilung der zu entwerfen
-___
+---
 Der Vorstand stimmt über den Antrag wie folgt ab:\
 **Dafür 5**\
 **Dagegen 0**\
 **Enthaltung 0**\
 Der Antrag wurde einstimmig angenommen.
-___
+---
 Ransbach-Baumbach, der 20. März 2020
