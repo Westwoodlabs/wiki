@@ -244,3 +244,5 @@ Wissensaustausch statt finden kann. Es findet eine Diskussion über den möglich
 Wochentag und über die inhaltliche Ausgestaltung dieses Abends statt. Die Mehrheit ist für
 einen regelmäßigen öffentlichen Themenabende am Freitag ab 19:00 Uhr, wobei auch im
 zweiwöchentlichen Rhythmus ein Vortrag zu einem technischen Thema angestrebt wird.
+
+Ransbach-Baumbach, der 05. Oktober 2019
