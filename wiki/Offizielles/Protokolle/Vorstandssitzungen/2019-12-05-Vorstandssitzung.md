@@ -15,12 +15,12 @@ Der Vorsitzende stellt fest, dass der Vorstand beschlussfähig ist, da mehr als 
 Der Vorsitzende erläutert, dass wir, mit der Erteilung des Freistellungsbescheids über das Jahr 2017, vom Finanzamt Neuwied aufgefordert worden sind, unsere Satzung bis spätestens zum 31. Dezember 2019 entsprechend neuer Anforderungen der Abgabenordnung anzupassen. Hervorgehobene Satzungsteile aus der offiziellen Mustersatzung lagen der Aufforderung anbei.
 
 Da es sich bei den geforderten Anpassungen ausschließlich um Konkretisierungen  bzw. die Verwendung formal eindeutiger Formulierungen handelt, stellt der Vorsitzende den Antrag an die Vorstandssitzung nach § 12 der Satzung folgende redaktionelle Änderungen an der Satzung des Vereins zu beschließen:
-___
+---
 1. Im § 2 „Zweck des Vereins“ wird der erste Absatz um folgenden vorangestellten Satz ergänzt: »Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.«
 2. Im § 11 „Auflösung des Vereins“ Absatz 2 wird die Formulierung „fallen die Finanzmittel“ durch die Formulierung „fällt das Vermögen“ ersetzt. Weiterhin wird hinter der Nennung der Empfänger von Vereinsvermögen und -Inventar eingefügt: „die/das es ausschließlich für gemeinnützige Zwecke zu verwenden hat“. Insgesamt hat der genannte Absatz nach der Änderung folgenden Wortlaut:
 „Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die DKMS gemeinnützige GmbH (Deutsche Knochenmarkspenderdatei) geführt unter der Nummer 381293 im Handelsregister Abteilung B des Amtsgerichts Stuttgart, die es ausschließlich für gemeinnützige Zwecke zu verwenden hat, sowie das Vereinsinventar an das Haus der Jugend Montabaur e.V., geführt unter Nummer 1133 im Vereinsregister des Amtsgerichts Montabaur, das es ausschließlich zu gemeinützigen Zwecken zu verwenden hat.“
 
-___
+---
 Die Vorstandssitzung stimmt über den gestellten Antrag ab:\
 **Dafür: 3\
 Dagegen: 0\
