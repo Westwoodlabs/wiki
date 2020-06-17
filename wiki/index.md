@@ -13,3 +13,4 @@ Offizielles
 =====================
 * [Mitgliedsantrag](Offizielles/Protokolle/Beitragsordnung.md)
 * [Satzung](Offizielles/Protokolle/Satzung.md)
+* [Protokolle](protokolle)
