@@ -5,8 +5,8 @@ Unsere Spaceregeln während der #COVID19 Pandemie findet ihr [hier](hygiene_covi
 Projekte
 =====================
 
-* [Schließanlage](Schliessanlage.md)
-* [Strichliste](Strichliste.md)
+* [Schließanlage](Projekte/Schliessanlage.md)
+* [Strichliste](Projekte/Strichliste.md)
 
 
 Offizielles
