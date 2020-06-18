@@ -1,6 +1,6 @@
 Protokolle Mitgliederversammlung
 =====================
-* [Grudungsversammlung](2016-06-11-Gruendungsversammlung)
+* [Gründungsversammlung](2016-06-11-Gruendungsversammlung)
 * [Mitgliederversammlung 2017-02-21](2017-02-21-Mitgliederversammlung)
 * [Mitgliederversammlung 2017-08-14](2017-08-14-Mitgliederversammlung)
 * [Mitgliederversammlung 2018-06-01](2018-06-01-Mitgliederversammlung)
