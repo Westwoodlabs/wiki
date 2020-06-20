@@ -13,4 +13,5 @@ Offizielles
 =====================
 * [Mitgliedsantrag](Offizielles/Protokolle/Beitragsordnung.md)
 * [Satzung](Offizielles/Protokolle/Satzung.md)
+* [Geschäftsordnung des Vorstands](Offizielles/Protokolle/Geschaeftsordnung_des_Vorstands.md)
 * [Protokolle](protokolle)
