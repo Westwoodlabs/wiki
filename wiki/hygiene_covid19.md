@@ -8,7 +8,7 @@ Regeln für den Spacebetrieb während Covid 19
 * Vor Benutzung sind Tisch und Stuhlarmlehne desinfizieren.
 * Insgesamt maximal 5 Personen davon maximal 4 im Hauptraum und/oder maximal 2 in der Werkstatt.
 * In der Werkstatt die Sitzplätze zum Schrank/Fritzboxtisch nutzen, um den Durchgang zur Küche freizuhalten.
-* Alle Oberflächen sind vor dem Verlassen zu desinfizieren
+* Alle Oberflächen sind vor Benutzung zu desinfizieren
   * Griffe (Schubladen, Kühlschrank)
   * Touchdisplays (Strichliste)
   * Türklinken
