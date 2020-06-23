@@ -1,7 +1,7 @@
 Regeln für den Spacebetrieb während Covid 19
 ===========================================================
 * Bitte über Telegram in der Gruppe voranmelden, damit niemand unnötig vorbeikommt.
-* Es soll möglich 1,5 Meter Abstand eingehalten werden für Personen aus unterschiedlichen Haushalten, um die Regelung von der Landesregierung einzuhalten.
+* Es soll möglichst 1,5 Meter Abstand eingehalten werden für Personen aus unterschiedlichen Haushalten, um die Regelung von der Landesregierung einzuhalten.
 * Lüften! Mindestens alle 60 Minuten 10 Minuten lüften, wenn das Wetter es zulässt die Fernster durchgehend geöffnet halten. (Mehr ist mehr)
 * Vor dem Betreten der Räume die Hände auf der Toilette gründlich waschen.
 * Pro Tisch nur eine Person um den Abstand zu gewährleisten. Ausnahmen bei Personen aus einem Haushalt.

@@ -11,7 +11,7 @@ Projekte
 
 Offizielles
 =====================
-* [Mitgliedsantrag](Offizielles/Protokolle/Beitragsordnung.md)
-* [Satzung](Offizielles/Protokolle/Satzung.md)
-* [Geschäftsordnung des Vorstands](Offizielles/Protokolle/Geschaeftsordnung_des_Vorstands.md)
-* [Protokolle](protokolle)
+* [Mitgliedsantrag](Offizielles/Beitragsordnung.md)
+* [Satzung](Offizielles/Satzung.md)
+* [Geschäftsordnung des Vorstands](Offizielles/Geschaeftsordnung_des_Vorstands.md)
+* [Protokolle](Offizielles/protokolle.md)
