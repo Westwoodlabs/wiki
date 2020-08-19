@@ -7,6 +7,8 @@ Projekte
 
 * [Schließanlage](Projekte/Schliessanlage.md)
 * [Strichliste](Projekte/Strichliste.md)
+* [Dymo Webinterface](Projekte/Dymo.md)
+* [Netzwerk](Projekte/Netzwerk.md)
 * [LetsEncrypt wwlabs.space](Projekte/letsencrypt-wwlabs.space.md)
 
 
