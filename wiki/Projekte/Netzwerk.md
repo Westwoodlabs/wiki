@@ -1,6 +1,7 @@
 # Netzwerk
 
 ## DNS
+
 | FQDN | Beschreibung | 
 | ----------- | ----------- | 
 | [strichliste.wwlabs.space](https://strichliste.wwlabs.space) | Strichliste, siehe [Projekt/Strichliste](Strichliste.md) | 
@@ -12,6 +13,7 @@
 
 
 ## VLANs
+
 | id | Name |   | Wlan | 
 | --- | --- | --- | --- | 
 | 20 | WWL | für alles  | Westwoodlabs | 
@@ -22,6 +24,7 @@
 
 
 ## Firewall
+
 | In | Out | Protocol | Port | Action | 
 | --- | --- | --- | --- | --- | 
 | ALL | ALL | all | all | accept established,related | 
