@@ -2,7 +2,7 @@
 
 ## DNS
 | FQDN | Beschreibung | 
-| --- | --- | 
+| ----------- | ----------- | 
 | [strichliste.wwlabs.space](https://strichliste.wwlabs.space) | Strichliste, siehe [Projekt/Strichliste](Strichliste.md) | 
 | [backend.wwlabs.space](https://backend.wwlabs.space) | Node-RED | 
 | [dymo.wwlabs.space](https://dymo.wwlabs.space) | Dymo Webinterface, siehe [Projekt/Dymo](Dymo.md) | 
