@@ -4,7 +4,7 @@ Stuff, der im Space nicht beschriftet ist, gehört dem Space. Beschrifte also de
 ![Screenshot](web2dymo.png)
 
 ## How to
-* Webinterface unter https://dymo.wwlabs.space öffnen
+* Webinterface unter [dymo.wwlabs.space](https://dymo.wwlabs.space) öffnen
 * Vorlage auswählen
 * Textfelder ausfüllen
 * Ducker oder Vorschau anzeigen lassen

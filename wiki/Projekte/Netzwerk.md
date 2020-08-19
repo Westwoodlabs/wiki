@@ -1,5 +1,9 @@
 # Netzwerk
 
+Hier dokumentieren wir ein paar Dinge zu unserer Space internen Netzwerk Infrastruktur. 
+
+![Screenshot](netzwerk.jpg)
+
 ## DNS
 
 | FQDN | Beschreibung | 
