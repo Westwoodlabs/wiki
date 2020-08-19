@@ -14,7 +14,8 @@ Projekte
 
 Offizielles
 =====================
-* [Mitgliedsantrag](Offizielles/Beitragsordnung.md)
+* [Mitgliedsantrag](https://westwoodlabs.de/dateien/Mitgliedsantrag.pdf)
+* [Beitragsordnung](Offizielles/Beitragsordnung.md)
 * [Satzung](Offizielles/Satzung.md)
 * [Geschäftsordnung des Vorstands](Offizielles/Geschaeftsordnung_des_Vorstands.md)
 * [Protokolle](Offizielles/protokolle.md)

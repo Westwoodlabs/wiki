@@ -9,7 +9,7 @@ Netzwerk
 |[dymo.wwlabs.space](https://dymo.wwlabs.space)|Dymo Webinterface, siehe [Projekt/Dymo](Dymo.md)|
 |[nuc.wwlabs.space](https://nuc.wwlabs.space)|Docker Host|
 |silex.wwlabs.space|Printer/USB-Device-Server|
-|tuer.wwlabs.space|Tür-Pi für Schließanlage|
+|tuer.wwlabs.space|Tür-Pi für Schließanlage, siehe [Projekt/Schliessanlage](Schliessanlage.md)|
 
 
 ## VLANs

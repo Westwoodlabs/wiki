@@ -2,7 +2,7 @@
 Unsere digitale Strichliste zum Erwerb von Getränken, Snacks und Space-Stuff.
 
 ## How to
-* Nutzer über Webseite https://strichliste.wwlabs.space anlegen
+* Nutzer über Webseite [strichliste.wwlabs.space](https://strichliste.wwlabs.space) anlegen
 * Bargeld (Euro) in die Kasse legen und Konto um diesen Betrag aufladen
 * Produkt aus dem Kühl- oder Gefrierschrank nehmen
 * Nutzer auf dem riesigen Touchscreen in der Küche auswählen
