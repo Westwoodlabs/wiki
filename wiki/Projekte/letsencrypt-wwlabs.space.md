@@ -5,7 +5,7 @@ gibt es ein wildcard LetsEncrypt Zertifikat für `*.wwlabs.space`.
 Der Private-Key ist nicht wirklich private, sondern nur Space-private: Für Space-interne Projekt kann man ihn bekommen.
 
 ## Wie komme ich an das aktuelle Zertifikat
-Einfach: `curl https://wwlabs.space/letsencrypt/fullchain.pem`
+Einfach: `curl https://cert.wwlabs.space/letsencrypt/fullchain.pem`
 
 Originell: `openssl s_client -showcerts wwlabs.space:443 </dev/null 2>/dev/null | sed -n '/^-----BEGIN CERT/,/^-----END CERT/p'`
 
