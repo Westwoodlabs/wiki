@@ -101,4 +101,4 @@ Der Antrag wurde einstimmig angenommen.
 
 ---
 
-Ransbach-Baumbach, der 20. März 2020
+Rodenbach-Udert, der 20. Juni 2020
