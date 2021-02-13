@@ -74,10 +74,10 @@ vertreten durch Patric Steffen geschlossen, daher besteht hier kein Handlungsbed
 in Folge der Vereinseintragung.
 Der Kassenwart berichtet über die aktuelle Kassenlage und die monatlichen
 Aufwendungen und Einkünfte des Vereins:  
-Kassenstand                     4804,55€  
-monatliche Ausgaben             606€   
-monatlicher Zulauf              560€  
-Rüchstellung für Anwaltskosten  1000€  
+| Kassenstand | 4804,55€ |  
+| monatliche Ausgaben | 606€ |   
+| monatlicher Zulauf | 560€ |  
+| Rüchstellung für Anwaltskosten | 1000€ |  
 
 Abzüglich der Rückstellung ist die Deckung der Kosten für die Räumlichkeiten unter
 der Prämisse eines gleichbleibenden monatlichen Zulaufs für ca. 90 Monate
