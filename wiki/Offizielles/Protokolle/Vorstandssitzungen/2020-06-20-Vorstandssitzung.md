@@ -91,6 +91,6 @@ Der Vorstand stimmt über den Antrag wie folgt ab:
 **Dagegen 0**  
 **Enthaltung 0**  
 Der Antrag wurde einstimmig angenommen.  
----  
+---
 
 Ransbach-Baumbach, der 20. März 2020
