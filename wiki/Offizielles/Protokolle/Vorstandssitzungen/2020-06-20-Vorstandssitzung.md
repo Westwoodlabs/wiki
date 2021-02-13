@@ -18,15 +18,18 @@ Aufgrund des kontinuierlichen Austauschs der Vorstandsmitglieder schlägt der
 Vorsitzende vor, den in der Geschäftsordnung festgelegten Turnus für
 Vorstandssitzungen von vierteljährlich zu halbjährlich zu ändern. 
 Beschlussfassung: 
+
 ---
 In §3 Abs. 1 der Geschäftsordnung soll das Wort „vierteljährlich“
 durch „halbjährlich“ ersetzt werden.
+
 ---
 Der Vorstand stimmt über den Antrag wie folgt ab:  
 **Dafür 5**  
 **Dagegen 0**  
 **Enthaltung 0**  
 Der Antrag wurde einstimmig angenommen.
+
 ---
 ## TOP 4. Rückmeldung vom Finanzamt bzgl. der letzten Satzungsänderung 
 
@@ -55,8 +58,8 @@ Der Vorstand stimmt über den Antrag wie folgt ab:
 **Dagegen 0**  
 **Enthaltung 0**  
 Der Antrag wurde einstimmig angenommen.  
----
 
+---
 ## TOP 7. Hygieneplan zum Infektionsschutz während der COVID-19-Pandemie
 
 Die ersten Eindrücke zur Akzeptanz und Anwendung des Hygieneplans nach der
@@ -78,7 +81,8 @@ Rüchstellung für Anwaltskosten  1000€
 
 Abzüglich der Rückstellung ist die Deckung der Kosten für die Räumlichkeiten unter
 der Prämisse eines gleichbleibenden monatlichen Zulaufs für ca. 90 Monate
-gesichert.    
+gesichert.  
+  
 ---
 Beschlussfassung: Der Vorsitzende beantragt, die Anmietung der Räumlichkeiten bis
 zum 31. Mai 2021 fortzusetzen. Abweichend zum Beschluss vom 23. April 2019 wird
@@ -91,6 +95,7 @@ Der Vorstand stimmt über den Antrag wie folgt ab:
 **Dagegen 0**  
 **Enthaltung 0**  
 Der Antrag wurde einstimmig angenommen.  
+
 ---
 
 Ransbach-Baumbach, der 20. März 2020
