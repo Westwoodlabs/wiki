@@ -13,3 +13,4 @@ Protokolle Vorstandssitzungen
 * [Vorstandssitzungen 2017-07-11](2017-07-11-Vorstandssitzung)
 * [Vorstandssitzungen 2019-12-05](2019-12-05-Vorstandssitzung)
 * [Vorstandssitzungen 2020-03-20](2020-03-20-Vorstandssitzung)
+* [Vorstandssitzungen 2020-06-20](2020-06-20-Vorstandssitzung)
