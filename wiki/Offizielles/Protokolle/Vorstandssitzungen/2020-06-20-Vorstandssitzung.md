@@ -74,7 +74,8 @@ vertreten durch Patric Steffen geschlossen, daher besteht hier kein Handlungsbed
 in Folge der Vereinseintragung.
 Der Kassenwart berichtet über die aktuelle Kassenlage und die monatlichen
 Aufwendungen und Einkünfte des Vereins:  
-| id | Name | 
+
+|   |   | 
 | --- | --- | 
 | Kassenstand | 4804,55€ | 
 | monatliche Ausgaben | 606€ | 
