@@ -1,4 +1,5 @@
 #Raumordnung der Westwoodlabs e.V.
+
 ## § 1 Allgemeines
 
  (1) Es gilt die Hausordnung des VIP-City-Centers. Sie ist dieser Raumordnung
@@ -118,7 +119,7 @@ beigefügt.
 
  (2) Im Ausnahmefall kann eine Übernachtung durch den Vorstand genehmigt werden.
 
- ## § 11 Speisen und Getränke
+## § 11 Speisen und Getränke
 
  (1) Geöffnete Lebensmittelpackungen müssen mit dem Öffnungsdatum und dem Namen des
  Eigentümers versehen werden.
