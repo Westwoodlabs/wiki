@@ -19,12 +19,12 @@ beigefügt.
  (4) Der Vorstand kann über ein Hausverbot entscheiden, welches von der nächsten
  Mitgliederversammlung bestätigt werden muss.
 
- ## § 3 Haftung
+## § 3 Haftung
 
  (1) Der Verein haftet nicht für Verlust oder Beschädigung von Privateigentum oder an
  dem Verein überlassenen Gerätschaften in den Vereinsräumen.
 
- ## § 4 Verhalten, Sauberkeit und Ordnung
+## § 4 Verhalten, Sauberkeit und Ordnung
 
  (1) Es ist auf Ordnung und Sauberkeit zu achten.
  (2) Mit dem Inventar ist pfleglich und schonend umzugehen.
@@ -42,7 +42,7 @@ beigefügt.
 
  (10) Sexuelle Handlungen jeglicher Art sind unerwünscht.
 
- ## § 5 Umgang
+## § 5 Umgang
 
  (1) Der Umgang aller Personen miteinander hat friedlich und tolerant zu erfolgen.
 
@@ -91,7 +91,7 @@ beigefügt.
  an den Vorstand zurückzugeben.
 
   
- ## § 8 Verlassen der Räume
+## § 8 Verlassen der Räume
 
  (1) Das letzte anwesende schließberechtigte Mitglied muss vor Verlassen der Räume mit
  einer angemessenen Vorlaufzeit alle weiteren anwesenden Personen auffordern, diese
@@ -112,7 +112,7 @@ beigefügt.
  (2) Der dauerhafte und/oder unbeaufsichtigte Betrieb von Geräten ist mit dem Vorstand
  abzuklären und im Wiki zu dokumentieren.
 
- ## § 10 Übernachtungen
+## § 10 Übernachtungen
 
  (1) Die Übernachtung in den Vereinsräumen ist untersagt.
 
@@ -146,7 +146,7 @@ beigefügt.
  Lebensformen als statistisch gegeben angesehen werden muss, erfüllen Zwischenfälle
  mit extraterrestrischen Lebensformen nicht die Kriterien für höhere Gewalt.
  
- # Hausordnung des VIP citycenter
+# Hausordnung des VIP citycenter
  1. Die Reinigungspflicht des gemeinschaftlichen Eigentums wird wie folgt geregelt:  
    a Hausflur, Wohnungszugänge, Treppenhaus, Eingang zu den Mieteinheiten bis zum eigentlichen Mieteingang, Fahrstuhl, Treppenhäuser, Kellergänge und alle öffentlich zugängliche Fenster und Türen werden auf gemeinsame Kosten (durch Hausmeister oder Reinigungskräfte) regelmäßig gereinigt.   
    b Der Gehweg und die Zugänge von der Straße zu den Haustüren und die Außenanlagen werden in gleicher Weise gereinigt, im Winter erfolgt Schneeräumung und Streuen, soweit erforderlich, durch den Hausmeister. 
