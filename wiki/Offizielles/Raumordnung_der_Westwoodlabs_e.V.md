@@ -145,3 +145,27 @@ beigefügt.
  Lebensformen ruht während der Kampfhandlungen. Da die Existenz außerirdischer
  Lebensformen als statistisch gegeben angesehen werden muss, erfüllen Zwischenfälle
  mit extraterrestrischen Lebensformen nicht die Kriterien für höhere Gewalt.
+ 
+ # Hausordnung des VIP citycenter
+ 1. Die Reinigungspflicht des gemeinschaftlichen Eigentums wird wie folgt geregelt:  
+   a Hausflur, Wohnungszugänge, Treppenhaus, Eingang zu den Mieteinheiten bis zum eigentlichen Mieteingang, Fahrstuhl, Treppenhäuser, Kellergänge und alle öffentlich zugängliche Fenster und Türen werden auf gemeinsame Kosten (durch Hausmeister oder Reinigungskräfte) regelmäßig gereinigt.   
+   b Der Gehweg und die Zugänge von der Straße zu den Haustüren und die Außenanlagen werden in gleicher Weise gereinigt, im Winter erfolgt Schneeräumung und Streuen, soweit erforderlich, durch den Hausmeister. 
+ 
+ 2. Abfälle, Hygieneartikel und dergleichen dürfen nicht in die Toiletten, sondern nur in die Müllgefäße entsorgt werden. Durch Haustiere verursachte Verunreinigungen hat der Tierhalter sofort zu beseitigen. In Treppenhaus, Fluren und Garten sind Hunde an der Leine zu führen.
+ 3. Zur Müllentsorgung werden zentral Abfallcontainer zur Verfügung gestellt (s. beigefügten Plan). Der Müll muss den Vorgaben entsprechend getrennt werden. Elektroschrott, Batterien, Bauschutt und Sondermüll müssen vom Mieter außerhalb entsorgt werden. 
+ 4. Toiletten und Wasserleitung sind von den Mietern besonders pfleglich zu behandeln.
+ 5. Die Wohnungseigentümer sind verpflichtet, jeden am Dach oder gemeinsamen Eigentum auftretenden Schaden dem Verwalter sofort anzuzeigen. Die Kellerfenster und Außentüren sind im Winter (Oktober bis März) bis auf kurzen stoßweisen Lüften geschlossen zu halten. 
+ 6. Die gleichen Bestimmungen gelten für die pflegliche Behandlung der Zentralheizung und Aufzugsanlagen. 
+ 7. Die Mieter sorgen bis zur Abhilfe durch den Verwalter durch vorläufige Maßnahmen für die Beseitigung unmittelbarer Gefahren.
+ 8. Übel riechende Stoffe, Küchenabfälle und dergleichen dürfen, um Verstopfungen vorzubeugen, nicht in das Ausgussbecken geschüttet werden. Eine dennoch eingetretene, insbesondere durch Scheuersand hervorgerufene Verstopfung, hat der Wohnungseigentümer sofort auf eigene Kosten beseitigen zu lassen; bis zur Behebung des Schadens dürfen Wasserleitung, Ausguss oder Toiletten nicht benutzt werden.
+ 9. Im Hof, auf den Fluren und den sonstigen zum gemeinsamen Gebrauch bestimmten Räumen darf nichts gelagert oder aufbewahrt werden. 
+ 10. Das Haus ist im Bereich des Laubenganges ab 18:30 geschlossen zu halten, im Ladenbereich ab Geschäftsschluss.
+ 
+ 11. Das Auftreten von Ungeziefer ist dem Verwalter unverzüglich zu melden.
+ 
+ 12. Kellereingangstpren sind stets verschlossen zu halten.
+ 
+ 13.  Die Miter haften für Schaden, die durch schuldhafte Verletzungen der Sogfallts- und Anzeigepflichten verursacht werden, insbesondere durch unsachgemäße Behandlung der Versorgungs- und Abflussleitungen, der Toiletten-, Aufzug- und Heizungsanlagen, durch unzureichende Benutzung, Lüftung und Heizung des gemeinschaftlichen Eigentums oder durch Unterlassen von Maßnahmen zur Vermeidung von Frost- und Sturmschäden. Die Mieter haften in gleicher Weise für Schäden, die durch deren Mitarbeiter, Hausgehilfen, oder sonstige Personen schuldhaft verursacht werden, wenn diese die Mieter mit deren Willen aufsuchen oder sich in den ihnen überlassenen Räumen aufhalten. 
+ 14. Mit Rücksicht auf die übrigen Mieter und eine einheitliche Fassadengestalltung bedarf die Anbringung von Werbe- oder Hinweisschilder der Zustimmung des Verwalters. Das gleiche gilt auch für das Anbringen von technischen Geräten, wie z.B. Klimaanlagen und Sat-Anlagen. 
+ 
+ 15. Die Mieter sind dafür verantworlich, dass auch im Falle ihrer Abwesenheit die Verpflichtungen aus der Hausordnung erfüllt werden.
