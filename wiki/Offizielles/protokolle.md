@@ -5,6 +5,7 @@ Protokolle Mitgliederversammlung
 * [Mitgliederversammlung 2017-08-14](2017-08-14-Mitgliederversammlung)
 * [Mitgliederversammlung 2018-06-01](2018-06-01-Mitgliederversammlung)
 * [Mitgliederversammlung 2019-10-05](2019-10-05-Mitgliederversammlung)
+* [Mitgliederversammlung 2021-02-13](2021-02-13-Mitgliederversammlung)
 
 Protokolle Vorstandssitzungen
 =====================
