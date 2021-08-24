@@ -203,7 +203,7 @@ Karl Dissen und Maik Nauheim werden von der Mitgliederversammlung zu den neuen K
 
 ---
 ## TOP8 Diskussion und Abstimmung über Satzungsänderungsanträge
-Alle Satzungsänderungsanträge wurden einzeln diskutiert, eventuelle Änderungswünsche eingearbeitet und anschließend zur Abstimmung gestellt. Endfassung und Abstimmungsergebnisse siehe Anhang „[2021-02-13-Mitgliederversammlung-anträge.pdf](Anträge)“ unter den Punkten SÄ 1-10.
+Alle Satzungsänderungsanträge wurden einzeln diskutiert, eventuelle Änderungswünsche eingearbeitet und anschließend zur Abstimmung gestellt. Endfassung und Abstimmungsergebnisse siehe Anhang „[Anträge](2021-02-13-Mitgliederversammlung-anträge.pdf)“ unter den Punkten SÄ 1-10.
 
 ---
 Die Mitgliederversammlung wird für eine 15-minütige Pause unterbrochen.
