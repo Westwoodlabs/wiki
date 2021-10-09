@@ -1,4 +1,5 @@
-#Raumordnung der Westwoodlabs e.V.
+Raumordnung der Westwoodlabs e.V.
+===================================
 
 ## § 1 Allgemeines
 
@@ -147,7 +148,8 @@ beigefügt.
  Lebensformen als statistisch gegeben angesehen werden muss, erfüllen Zwischenfälle
  mit extraterrestrischen Lebensformen nicht die Kriterien für höhere Gewalt.
  
-# Hausordnung des VIP citycenter
+
+# Hausordnung des VIP City Center
  1. Die Reinigungspflicht des gemeinschaftlichen Eigentums wird wie folgt geregelt:  
    a Hausflur, Wohnungszugänge, Treppenhaus, Eingang zu den Mieteinheiten bis zum eigentlichen Mieteingang, Fahrstuhl, Treppenhäuser, Kellergänge und alle öffentlich zugängliche Fenster und Türen werden auf gemeinsame Kosten (durch Hausmeister oder Reinigungskräfte) regelmäßig gereinigt.   
    b Der Gehweg und die Zugänge von der Straße zu den Haustüren und die Außenanlagen werden in gleicher Weise gereinigt, im Winter erfolgt Schneeräumung und Streuen, soweit erforderlich, durch den Hausmeister. 

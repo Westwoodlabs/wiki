@@ -1,13 +1,10 @@
-Regeln für den Spacebetrieb während Covid 19
+Regeln für den Spacebetrieb während COVID 19
 ===========================================================
 * Bitte über Telegram in der Gruppe voranmelden, damit niemand unnötig vorbeikommt.
-* Es soll möglichst 1,5 Meter Abstand eingehalten werden für Personen aus unterschiedlichen Haushalten, um die Regelung von der Landesregierung einzuhalten.
+* Gründsätzlich gelten eventuelle Abstandsgebote, Maskenpflicht oder Personenbegrenzungen gemäß Landesverordnung: Bei Unklarheiten einfach beim Vorstand fragen.
 * Lüften! Mindestens alle 60 Minuten 10 Minuten lüften, wenn das Wetter es zulässt die Fernster durchgehend geöffnet halten. (Mehr ist mehr)
 * Vor dem Betreten der Räume die Hände auf der Toilette gründlich waschen.
-* Pro Tisch nur eine Person um den Abstand zu gewährleisten. Ausnahmen bei Personen aus einem Haushalt.
-* Vor Benutzung sind Tisch und Stuhlarmlehne desinfizieren.
-* Insgesamt maximal 5 Personen davon maximal 4 im Hauptraum und/oder maximal 2 in der Werkstatt.
-* In der Werkstatt die Sitzplätze zum Schrank/Fritzboxtisch nutzen, um den Durchgang zur Küche freizuhalten.
+* In der Werkstatt möglichst die Sitzplätze zum Schrank/Fritzboxtisch nutzen, um den Durchgang zur Küche freizuhalten.
 * Alle Oberflächen sind vor Benutzung zu desinfizieren
   * Griffe (Schubladen, Kühlschrank)
   * Touchdisplays (Strichliste)
