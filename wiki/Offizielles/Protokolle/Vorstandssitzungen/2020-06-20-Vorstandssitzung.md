@@ -80,7 +80,7 @@ Aufwendungen und Einkünfte des Vereins:
 | Kassenstand | 4804,55€ | 
 | monatliche Ausgaben | 606€ | 
 | monatlicher Zulauf | 560€ | 
-| Rüchstellung für Anwaltskosten | 1000€ | 
+| Rückstellung für Anwaltskosten | 1000€ | 
 
 Abzüglich der Rückstellung ist die Deckung der Kosten für die Räumlichkeiten unter
 der Prämisse eines gleichbleibenden monatlichen Zulaufs für ca. 90 Monate
