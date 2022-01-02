@@ -189,14 +189,14 @@ Für die zwei zu vergebenden Posten der Kassenprüfer stellen sich folgende Pers
 • Karl Dissen
 • Maik Nauheim
 • Timo Krebs
-• Vincent Deister
+• Elisabeth Deister
 
 ---
 In der Abstimmung wird für jede kandidierende Person mit Ja/Nein/Enthaltung gestimmt, die beiden Kandidaten mit den meisten Ja-Stimmen werden dabei von der Mitgliederversammlung als Kassenprüfer gewählt.
 Karl Dissen:		11x Ja, 1x Nein, 4x Enthaltung
 Maik Nauheim:	10x Ja, 1x Nein, 5x Enthaltung
 Timo Krebs:		7x Ja, 2x Nein, 8x Enthaltung
-Vincent Deister:	7x Ja, 3x Nein, 7x Enthaltung
+Elisabeth Deister:	7x Ja, 3x Nein, 7x Enthaltung
 
 ---
 Karl Dissen und Maik Nauheim werden von der Mitgliederversammlung zu den neuen Kassenprüfern gewählt.
