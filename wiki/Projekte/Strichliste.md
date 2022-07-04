@@ -9,7 +9,7 @@ Unsere digitale Strichliste zum Erwerb von Getränken, Snacks und Space-Stuff.
 * Produkt mit EAN-Code unter den Scanner halten oder aus der Liste auswählen
 
 ## Telegram Bot
-Es gibt einen Telegram Bot der über jeden Einkauf informiert und das aktuelle Guthaben anzeigen kann. Dazu einfach den Bot [@StrichlisteBot](https://www.t.me/StrichlisteBot) anschreiben und den Anweisen zur Verknüpfung eures Telegram Nutzers mit dem Strichlisten Nutzer folgen.
+Es gibt einen Telegram Bot der über jeden Einkauf informiert und das aktuelle Guthaben anzeigen kann. Dazu einfach den Bot [@StrichlisteBot](https://www.t.me/StrichlisteBot) anschreiben und den anweisungen zur Verknüpfung eures Telegram Nutzers mit dem Strichlisten Nutzer folgen.
 
 ## Nice to know
 Die Strichliste läuft als Docker Container auf unserem Docker-Host nuc.wwlabs.space. Der Code für den Container [strichliste-docker](https://github.com/Westwoodlabs/strichliste-docker) und auch den Telegram Bot [strichliste-telegram](https://github.com/Westwoodlabs/strichliste-telegram) sind in unseren [GitHub Repos](https://github.com/Westwoodlabs) zu finden.
