@@ -1,4 +1,4 @@
-# Strichlist
+# Strichliste
 Unsere digitale Strichliste zum Erwerb von Getränken, Snacks und Space-Stuff.
 
 ## How to
