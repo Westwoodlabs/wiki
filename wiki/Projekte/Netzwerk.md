@@ -10,6 +10,7 @@ Hier dokumentieren wir ein paar Dinge zu unserer Space internen Netzwerk Infrast
 | ----------- | ----------- | 
 | [strichliste.wwlabs.space](https://strichliste.wwlabs.space) | Strichliste, siehe [Projekt/Strichliste](Strichliste.md) | 
 | [backend.wwlabs.space](https://backend.wwlabs.space) | Node-RED | 
+| [gandalf.wwlabs.space](https://gandalf.wwlabs.space) | Space Automation Frontend (Zum Steuern von Licht, Steckdosen, Beamer, Lautsprechern etc.) | 
 | [dymo.wwlabs.space](https://dymo.wwlabs.space) | Dymo Webinterface, siehe [Projekt/Dymo](Dymo.md) | 
 | [nuc.wwlabs.space](https://nuc.wwlabs.space) | Docker Host | 
 | silex.wwlabs.space | Printer/USB-Device-Server | 
