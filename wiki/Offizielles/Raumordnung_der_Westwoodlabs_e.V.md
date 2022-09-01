@@ -166,9 +166,9 @@ beigefügt.
  
  11. Das Auftreten von Ungeziefer ist dem Verwalter unverzüglich zu melden.
  
- 12. Kellereingangstpren sind stets verschlossen zu halten.
+ 12. Kellereingangstüren sind stets verschlossen zu halten.
  
- 13.  Die Miter haften für Schaden, die durch schuldhafte Verletzungen der Sogfallts- und Anzeigepflichten verursacht werden, insbesondere durch unsachgemäße Behandlung der Versorgungs- und Abflussleitungen, der Toiletten-, Aufzug- und Heizungsanlagen, durch unzureichende Benutzung, Lüftung und Heizung des gemeinschaftlichen Eigentums oder durch Unterlassen von Maßnahmen zur Vermeidung von Frost- und Sturmschäden. Die Mieter haften in gleicher Weise für Schäden, die durch deren Mitarbeiter, Hausgehilfen, oder sonstige Personen schuldhaft verursacht werden, wenn diese die Mieter mit deren Willen aufsuchen oder sich in den ihnen überlassenen Räumen aufhalten. 
+ 13.  Die Mieter haften für Schaden, die durch schuldhafte Verletzungen der Sogfallts- und Anzeigepflichten verursacht werden, insbesondere durch unsachgemäße Behandlung der Versorgungs- und Abflussleitungen, der Toiletten-, Aufzug- und Heizungsanlagen, durch unzureichende Benutzung, Lüftung und Heizung des gemeinschaftlichen Eigentums oder durch Unterlassen von Maßnahmen zur Vermeidung von Frost- und Sturmschäden. Die Mieter haften in gleicher Weise für Schäden, die durch deren Mitarbeiter, Hausgehilfen, oder sonstige Personen schuldhaft verursacht werden, wenn diese die Mieter mit deren Willen aufsuchen oder sich in den ihnen überlassenen Räumen aufhalten. 
  14. Mit Rücksicht auf die übrigen Mieter und eine einheitliche Fassadengestalltung bedarf die Anbringung von Werbe- oder Hinweisschilder der Zustimmung des Verwalters. Das gleiche gilt auch für das Anbringen von technischen Geräten, wie z.B. Klimaanlagen und Sat-Anlagen. 
  
  15. Die Mieter sind dafür verantworlich, dass auch im Falle ihrer Abwesenheit die Verpflichtungen aus der Hausordnung erfüllt werden.
