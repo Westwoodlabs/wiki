@@ -10,7 +10,7 @@ Projekte
 * [Dymo Webinterface](Projekte/Dymo.md)
 * [Netzwerk](Projekte/Netzwerk.md)
 * [LetsEncrypt wwlabs.space](Projekte/letsencrypt-wwlabs.space.md)
-+ [Umgebung] (Projekte/outside_infra.md)
++ [Umgebung](Projekte/outside_infra.md)
 
 Offizielles
 =====================
