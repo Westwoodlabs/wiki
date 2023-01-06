@@ -1,6 +1,5 @@
 Westwoodlabs Wiki 
 =====================
-Unsere Spaceregeln während der #COVID19 Pandemie findet ihr [hier](hygiene_covid19.md)
 
 Projekte
 =====================
