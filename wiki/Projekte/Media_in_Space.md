@@ -3,23 +3,24 @@ In dieser Übersicht dargestellt wie du Medien im Space konsumieren kannst. 😋
 # Grundsätzliches 
 - Wir nutzen für die drahtlose Übertragung von Medien an die Beamer verschiedene Chromecasts. Diese *sollte* jedes Gerät in dem Westwoodlabs-WLAN eigenständig finden können. 
 - Die Beamer, die Leinwand im Nebenraum sowie die jeweiligen Lautsprecher kannst du, wenn du bei uns im Westwoodlabs-WLAN bist, über [Gandalf](https://gandalf.wwlabs.space/) einschalten/ausschalten/steuern. 
-- Denke bitte auch an deine Mitmenschen. Konsumiere also bitte keine Medien, wenn andere sich davon vielleicht belästigt fühlen könnten. Videos wie du man ein Windows Vista installiert solltest du also bitte zu Hause konsumieren.
-- Die Lautstärke kannst du über [Gandalf](https://gandalf.wwlabs.space/)  oder dein Gerät selbst steuern. Achte bitte auch hier auf eine (!) angemessene Lautstärke.
+- Denke bitte auch an deine Mitmenschen. Konsumiere also bitte keine Medien, wenn andere sich davon vielleicht belästigt fühlen könnten. Videos wie man ein Windows Vista installiert solltest du also bitte zu Hause konsumieren.
+- Die Lautstärke kannst du über [Gandalf](https://gandalf.wwlabs.space/)  oder dein Gerät selbst steuern. Achte bitte auch hier auf eine angemessene (!) Lautstärke.
 
 # Hauptraum
 
 ## Übersicht der Geräte:
 - Beamer mit 1080p-Auflösung
-- Chromecast Version: (Muss man noch nachschauen)
+- Chromecast Version: Gen 3
 - Lautsprecher 
 - 2x HDMI-Adapter 
 - HDMI-Switch (unter der Decke)
 
 Im Hauptraum haben wir an den beiden Tischen HDMI-Adapter, welche dann über ein Patch-Kabel das Signal an einen HDMI-Switch weitergeben. Der HDMI-Switch hat eine Fernbedienung damit man ihm sagen kann, welchen Eingang er nun nutzen soll. Die Belegung ist wie folgt:
 
-1. Tisch an Whitebord
-2. Tisch an der Beamerfläche aka. Wand
-3. Chromecast "Hauptraum"
+1. Chromecast "Hauptraum"
+2. Tisch am Whiteboard
+3. Tisch an der Wand aka. Beamerfläche
+
 
 Da die HDMI-Adapter auch Strom brauchen, *sollte* stehts auch ein USB-A auf Micro-USB Kabel an ihnen sein und direkt an dein jeweiliges Endgerät gesteckt werden können, um sie mit Strom versorgen zu können. 
 
@@ -33,8 +34,8 @@ Der Chromecast im Hauptraum findest du mit dem Namen "Hauptraum" im Westwoodlabs
 # Nebenraum 
 
 ## Übersicht der Geräte:
-- Beamer mit Auflösung 720p
-- Chromecast Version: (Muss man noch nachschauen)
+- Beamer mit Auflösung "720p"
+- Chromecast Version: Gen 2
 - Lautsprecher mit Subwoofer
 - elektronische Leinwand 
 
