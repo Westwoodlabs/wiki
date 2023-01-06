@@ -4,7 +4,7 @@ In dieser Übersicht dargestellt wie du Medien im Space konsumieren kannst. 😋
 - Wir nutzen für die drahtlose Übertragung von Medien an die Beamer verschiedene Chromecasts. Diese *sollte* jedes Gerät in dem Westwoodlabs-WLAN eigenständig finden können. 
 - Die Beamer, die Leinwand im Nebenraum sowie die jeweiligen Lautsprecher kannst du, wenn du bei uns im Westwoodlabs-WLAN bist, über [Gandalf](https://gandalf.wwlabs.space/) einschalten/ausschalten/steuern. 
 - Denke bitte auch an deine Mitmenschen. Konsumiere also bitte keine Medien, wenn andere sich davon vielleicht belästigt fühlen könnten. Videos wie du man ein Windows Vista installiert solltest du also bitte zu Hause konsumieren.
-- Die Lautstärke kannst du über [Gandalf](<[Gandalf](https://gandalf.wwlabs.space/)>) oder dein Gerät selbst steuern. Achte bitte auch hier auf eine (!) angemessene Lautstärke.
+- Die Lautstärke kannst du über [Gandalf](https://gandalf.wwlabs.space/)  oder dein Gerät selbst steuern. Achte bitte auch hier auf eine (!) angemessene Lautstärke.
 
 # Hauptraum
 
@@ -38,9 +38,9 @@ Der Chromecast im Hauptraum findest du mit dem Namen "Hauptraum" im Westwoodlabs
 - Lautsprecher mit Subwoofer
 - elektronische Leinwand 
 
-Der Nebenraum hat für den Medienkonsum keinen HDMI-Adapter sondern "nur" einen Chromecast direkt am Beamer mit dem Namen "Nebenraum". Dieser wird über den Beamer mit Strom versorgt. Daher kannst du ihn nur dann finden, wenn der Beamer im Nebenraum auch eingeschaltet ist. Den Beamer kannst du über [Gandalf](<[Gandalf](https://gandalf.wwlabs.space/)>) starten. 
+Der Nebenraum hat für den Medienkonsum keinen HDMI-Adapter sondern "nur" einen Chromecast direkt am Beamer mit dem Namen "Nebenraum". Dieser wird über den Beamer mit Strom versorgt. Daher kannst du ihn nur dann finden, wenn der Beamer im Nebenraum auch eingeschaltet ist. Den Beamer kannst du über [Gandalf](https://gandalf.wwlabs.space/) starten. 
 
-Im Nebenraum gibt es eine elektronische Leinwand, welche über das [Gandalf](<[Gandalf](https://gandalf.wwlabs.space/)>) aus- und wieder eingefahren werden kann. Achte bitte darauf das beim Ausfahren oder Einfahren im Schrank nichts rausragt! Beim Hochfahren oder Runterfahren *kann* die Leinwand sonst Dinge aus dem Regal runterfallen lassen und dann kaputt machen! 
+Im Nebenraum gibt es eine elektronische Leinwand, welche über das [Gandalf](https://gandalf.wwlabs.space/)  aus- und wieder eingefahren werden kann. Achte bitte darauf das beim Ausfahren oder Einfahren im Schrank nichts rausragt! Beim Hochfahren oder Runterfahren *kann* die Leinwand sonst Dinge aus dem Regal runterfallen lassen und dann kaputt machen! 
 
 
 # Abschlussbemerkungen
