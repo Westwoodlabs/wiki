@@ -9,16 +9,18 @@ Dieser Drucker darf nur nach einer **Einweisung** verwendet werden!
 
 * Verwendung nur nach Einweisung
 * Kein Aceton
-* Nur mit Mesh-Leveling[^bignote]
-* Nicht an den Verstellschrauben drehen
-* Kein Aceton
-* Spachtel vermeiden[^1]
-* Kein Aceton[^2]
-
-[^bignote]: Mesh-Leveling aktivieren .gcode
-    ```
+* Nur mit Mesh-Leveling
+ ```
     M420 S1                                    ; Enable leveling 
     M420 Z2.0                                  ; Set leveling fading height to 2 mm
-    ```
-[^1]: Nach dem Abkühlen der Druckplatte, lässt sich im Normalfall das Objekt sehr leicht lösen.
-[^2]: Kein Aceton
+  ```
+* Nicht an den Verstellschrauben drehen
+* Kein Aceton
+* Spachtel vermeiden! Nach dem Abkühlen der Druckplatte, lässt sich im Normalfall das Objekt sehr leicht lösen.
+* Kein Aceton
+* Kein Aceton
+* Kein Aceton
+
+## Prusa Slicer Profil
+
+[PrusaSlicer_config_MegaX.ini](https://github.com/Westwoodlabs/wiki/raw/master/wiki/Projekte/PrusaSlicer_config_MegaX.ini)
