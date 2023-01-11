@@ -100,7 +100,6 @@ plugins:
   - jemoji
   - jekyll-gitlab-metadata
 
-exclude: ['README.md'] # exclude README.md from jekyll build
 readme_index:
   enabled: false
 
