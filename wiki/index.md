@@ -15,7 +15,7 @@
 
 # Offizielles
 
-- [Mitgliedsantrag](https://westwoodlabs.de/dateien/Mitgliedsantrag.pdf)
+- [Mitgliedsantrag](https://github.com/Westwoodlabs/Mitgliedsantrag/releases/latest/download/Mitgliedsantrag_Westwoodlabs.pdf)
 - [Beitragsordnung](Offizielles/Beitragsordnung.md)
 - [Satzung](Offizielles/Satzung.md)
 - [Geschäftsordnung des Vorstands](Offizielles/Geschaeftsordnung_des_Vorstands.md)
