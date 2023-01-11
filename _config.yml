@@ -90,7 +90,7 @@ plugins:
   - jekyll-paginate
   - jekyll-mentions
   - jekyll-optional-front-matter
-  - jekyll-readme-index
+ # - jekyll-readme-index # disable this plugin if you want to use README.md as index page
   - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-relative-links
@@ -99,8 +99,6 @@ plugins:
   - jekyll-titles-from-headings
   - jemoji
   - jekyll-gitlab-metadata
-
-
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
