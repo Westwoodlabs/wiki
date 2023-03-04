@@ -26,4 +26,5 @@ In unserem Wiki findest du Informationen zu unseren Projekten, unseren Räumlich
 - [Umgebung](Projekte/outside_infra.md)
 - [How to Medienkonsum im Space](Projekte/Media_in_Space.md)
 - [How to 3D Drucker](Projekte/3D_Drucker.md)
+- [How to 2D Drucker/Scanner](Projekte/drucken_scannen.md)
 - [Elektronikarbeitsplatz](Projekte/Elektronikarbeitsplatz.md)
