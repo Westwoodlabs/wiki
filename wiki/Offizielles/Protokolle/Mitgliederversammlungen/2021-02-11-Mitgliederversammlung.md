@@ -1,4 +1,4 @@
-Protokoll der Mitgliederversammlung vom 13. Februar 2021
+Protokoll der Mitgliederversammlung vom 11. Februar 2021
 ===========================================================
 
 **Anwesend**: (...)
