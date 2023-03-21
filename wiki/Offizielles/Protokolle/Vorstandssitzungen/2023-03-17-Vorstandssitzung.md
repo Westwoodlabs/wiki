@@ -1,4 +1,4 @@
-Öffentliches Protokoll der 7. Vorstandssitzung vom17. März 2023
+Öffentliches Protokoll der 7. Vorstandssitzung vom 17. März 2023
 ===================================================================
 
 **Anwesend:** (...)
