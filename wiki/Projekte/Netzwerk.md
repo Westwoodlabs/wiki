@@ -15,6 +15,8 @@ Hier dokumentieren wir ein paar Dinge zu unserer Space internen Netzwerk Infrast
 | [nuc.wwlabs.space](https://nuc.wwlabs.space) | Docker Host | 
 | silex.wwlabs.space | Printer/USB-Device-Server | 
 | tuer.wwlabs.space | Tür-Pi für Schließanlage, siehe [Projekt/Schliessanlage](Schliessanlage.md) | 
+| scan.wwlabs.space | Scan2Folder SMB, siehe [Projekt/drucken_scannen](drucken_scannen.md) |
+| dragino-1ee980.wwlabs.space | LoRaWAN Gateway |
 
 
 ## VLANs
