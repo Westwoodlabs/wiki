@@ -13,10 +13,10 @@ Hier dokumentieren wir ein paar Dinge zu unserer Space internen Netzwerk Infrast
 | [gandalf.wwlabs.space](https://gandalf.wwlabs.space) | Space Automation Frontend (Zum Steuern von Licht, Steckdosen, Beamer, Lautsprechern etc.) | 
 | [dymo.wwlabs.space](https://dymo.wwlabs.space) | Dymo Webinterface, siehe [Projekt/Dymo](Dymo.md) | 
 | [nuc.wwlabs.space](https://nuc.wwlabs.space) | Docker Host | 
-| silex.wwlabs.space | Printer/USB-Device-Server | 
+| [silex.wwlabs.space](http://silex.wwlabs.space) | Printer/USB-Device-Server | 
 | tuer.wwlabs.space | Tür-Pi für Schließanlage, siehe [Projekt/Schliessanlage](Schliessanlage.md) | 
-| scan.wwlabs.space | Scan2Folder SMB, siehe [Projekt/drucken_scannen](drucken_scannen.md) |
-| dragino-1ee980.wwlabs.space | LoRaWAN Gateway |
+| [scan.wwlabs.space](https://scan.wwlabs.space) | Scan2Folder SMB, siehe [Projekt/drucken_scannen](drucken_scannen.md) |
+| [dragino-1ee980.wwlabs.space:8000](http://dragino-1ee980.wwlabs.space:8000) | LoRaWAN Gateway |
 
 
 ## VLANs
