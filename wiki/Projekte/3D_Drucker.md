@@ -22,6 +22,13 @@ Dieser Drucker darf nur nach einer **Einweisung** verwendet werden!
 - Kein Aceton
 - Kein. Aceton. Niemals. Wirklich? Nein.
 
+### OctoPrint
+
+Unter [octopi.wwlabs.space](http://octopi.wwlabs.space) ist der OctoPi mit Octoprint zu finden. Logindaten sind `octopi` / `octopi`.
+
 ### Prusa Slicer Profil
 
 [PrusaSlicer_config_MegaX.ini](https://github.com/Westwoodlabs/wiki/raw/master/wiki/Projekte/3D_Drucker/PrusaSlicer_config_MegaX.ini)
+
+
+
