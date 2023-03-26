@@ -12,6 +12,7 @@ In unserem Wiki findest du Informationen zu unseren Projekten, unseren Räumlich
 - [Netzwerk](Projekte/Netzwerk.md)
 - [LetsEncrypt wwlabs.space](Projekte/letsencrypt-wwlabs.space.md)
 - [Telefon im Space](Projekte/DECT.md)
+- [Spaceautomatisierung](Projekte/Spaceautomatisierung.md)
 
 # Offizielles
 
