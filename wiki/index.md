@@ -11,6 +11,7 @@ In unserem Wiki findest du Informationen zu unseren Projekten, unseren Räumlich
 - [Dymo Webinterface](Projekte/Dymo.md)
 - [Netzwerk](Projekte/Netzwerk.md)
 - [LetsEncrypt wwlabs.space](Projekte/letsencrypt-wwlabs.space.md)
+- [Telefon im Space](Projekte/DECT.md)
 
 # Offizielles
 
