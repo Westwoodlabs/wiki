@@ -23,6 +23,7 @@ Etwas weiter weg ist z. B.:
  - Öffnungszeiten: 07:00 - 22:00
 - Der Aldi:
  - Mo.–Sa.: 08:00 - 20:00 
+
 Wir haben aber auch so obskure Dinge wie:
 - Die Tanke: 
  - Öffnungszeiten: Mo. – Fr.: 06:00 - 22:00, Sa.: 07:00 - 22:00, So.: 08:00 - 22:00  
