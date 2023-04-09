@@ -43,3 +43,51 @@ Hier dokumentieren wir ein paar Dinge zu unserer Space internen Netzwerk Infrast
 | Server | IOT | all | all | ACCEPT | 
 | IOT | Server | tcp | 1883 | ACCEPT | 
 | ALL | ALL | all | all | drop | 
+
+
+## Netzwerkplan
+
+| Patchpanel | Nummer | Location                                         |
+|------------|--------|--------------------------------------------------|
+| A          | 1      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 2      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 3      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 4      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 5      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 6      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 7      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 8      | Hauptraum „alter“ Teil Brüstungskanal            |
+| A          | 9      | Lounge hinter Couch                              |
+| A          | 10     | Lounge hinter Couch                              |
+| A          | 11     | Lounge hinter Couch                              |
+| A          | 12     | Lounge hinter Couch                              |
+| A          | 13     | Lounge Brüstungskanal                            |
+| A          | 14     | Lounge Brüstungskanal                            |
+| A          | 15     | Lounge Brüstungskanal                            |
+| A          | 16     | Lounge Brüstungskanal                            |
+| A          | 17     | Lounge unter Tisch                               |
+| A          | 18     | Lounge unter Tisch                               |
+| A          | 19     | Lounge unter Tisch                               |
+| A          | 20     | Lounge unter Tisch                               |
+| A          | 21     | Hauptraum „alter“ Teil Zwischendecke Accesspoint |
+| A          | 22     | Hauptraum Dymo-Regal hinter Tür                  |
+| A          | 23     | DSL Westwoodlabs                                 |
+| A          | 24     | DSL „fremd“                                      |
+| B          | 1      | Hauptraum „neuer“ Teil Brüstungskanal |
+| B          | 2      | Hauptraum „neuer“ Teil Brüstungskanal |
+| B          | 3      | Hauptraum „neuer“ Teil Brüstungskanal |
+| B          | 4      | Hauptraum „neuer“ Teil Brüstungskanal |
+| B          | 5      | Hauptraum „neuer“ Teil Brüstungskanal |
+| B          | 6      | Hauptraum „neuer“ Teil Brüstungskanal |
+| B          | 7      | Werkstatt Brüstungskanal              |
+| B          | 8      | Werkstatt Brüstungskanal              |
+| B          | 9      | Werkstatt Brüstungskanal              |
+| B          | 10     | Werkstatt Brüstungskanal              |
+| B          | 11     | Werkstatt Brüstungskanal              |
+| B          | 12     | Werkstatt Brüstungskanal              |
+| B          | 13     | Hauptraum „alter“ Teil auf Tisch      |
+| B          | 14     | Hauptraum „alter“ Teil auf Tisch      |
+| B          | 15     | Hauptraum „alter“ Teil auf Tisch      |
+| B          | 16     | Hauptraum „alter“ Teil auf Tisch      |
+| B          | 17     | Hauptraum „neuer“ Teil auf Tisch      |
+| B          | 18     | Hauptraum „neuer“ Teil auf Tisch      |
