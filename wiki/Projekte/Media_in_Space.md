@@ -13,7 +13,7 @@ In dieser Übersicht dargestellt, wie du Medien im Space konsumieren kannst. �
 - Chromecast Version: Gen 3
 - Lautsprecher 
 - 2x HDMI-Adapter 
-- HDMI-Switch (unter der Decke)
+- HDMI-Matrix-Switch (unter der Decke)
 
 Im Hauptraum haben wir an den beiden Tischen HDMI-Adapter, welche dann über ein Patch-Kabel das Signal an einen HDMI-Switch weitergeben. Der HDMI-Switch hat eine Fernbedienung, damit man ihm sagen kann, welchen Eingang er nun nutzen soll. Die Belegung ist wie folgt:
 
@@ -30,6 +30,21 @@ Bitte rolle nach Nutzung das Kabel gemeinsam mit HDMI-Adapter ein und nutze den 
 
 Der Chromecast im Hauptraum findest du mit dem Namen „Hauptraum“ im Westwoodlabs-WLAN. So ziemlich jedes Gerät findet den relativ zügig im Netzwerk. Der Chromecast im Hauptraum ist dauerhaft an. Daher kannst du auch deinen Medienkonsum an ihn schon starten zu schicken, obwohl der Beamer nicht eingeschaltet ist.
 
+### Matrix Switch
+Hat vier Eingänge und acht Ausgänge. Kann über einen ESP mit der [IRBridge Firmware](https://github.com/foorschtbar/IRBridge) ferngesteuert wird. Die Bridge wird über das Node-Red ferngesteuert. Die Bridge selber hat ein [Webinterface](http://irbridge1.wwlabs.space) zum testen.
+```
+Output A:
+1: 80 01
+2: 80 03
+3: 80 04
+4: 80 06
+
+Output B:
+1: 80 07
+2: 80 09
+3: 80 0A
+4: 80 1F
+```
 
 # Nebenraum 
 
