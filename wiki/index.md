@@ -23,7 +23,7 @@ In unserem Wiki findest du Informationen zu unseren Projekten, unseren Räumlich
 - [Protokolle](Offizielles/protokolle.md)
 - [Raumordnung](Offizielles/Raumordnung_der_Westwoodlabs_e.V.md)
 
-# Sontiges
+# Sonstiges
 
 - [Umgebung](Projekte/outside_infra.md)
 - [How to Medienkonsum im Space](Projekte/Media_in_Space.md)
