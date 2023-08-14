@@ -36,7 +36,10 @@ Wir haben aber auch so obskure Dinge wie:
 (Leider) haben wir keine Bargeld Aus-/Einzahlung in der Nähe. Jedoch haben wir die beiden „großen“ Banken hier in der Gegend:
 -  Nassauische Sparkasse – Finanz-Center 
  - Rheinstraße 74, 56235 Ransbach-Baumbach
+ - Verfügbarkeit der Geldautomaten Mo-So 6.00-23.00 Uhr.
+   
 -  Westerwald Bank eG Volks- und Raiffeisenbank, Filiale Ransbach-Baumbach 
- - Rheinstraße 64–70, 56235 Ransbach-Baumbach 
+ - Rheinstraße 64–70, 56235 Ransbach-Baumbach
+ - Verfügbarkeit der Geldautomaten Mo-So  05:00 bis 23:00 Uhr.
 
 Beides ist 24/7 zugängig und sind beide *quasi* nebeneinander.
