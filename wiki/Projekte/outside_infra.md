@@ -31,6 +31,7 @@ Wir haben eine mannigfaltige Auswahl an Einkaufsmöglichkeiten. Supermärkte hab
  - Öffnungszeiten: 07:00 - 21:00 
 - Der Edeka:
  - Öffnungszeiten: 07:00 - 21:00
+
 Etwas weiter weg ist z. B.:
 - Der Rewe:
  - Öffnungszeiten: 07:00 - 22:00
