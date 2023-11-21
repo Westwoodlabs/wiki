@@ -9,7 +9,7 @@ Im Space haben wir mehrere 3D-Drucker. Bitte beachte die folgenden Regeln, bevor
 
 ## Anycubic Mega X
 
-<img style="float: right; width: 15em; border: 1px;" src="3D_Drucker/Anycubic_MegaX/picture.jpg" alt="drawing"/>
+<img style="float: right; width: 15em; border: 1px;" src="printer_anycubic_mega_x.jpg" alt="Anycubic i3 Mega X"/>
 
 ### Anforderungen
 
@@ -31,7 +31,7 @@ Unter [octopi.wwlabs.space](http://octopi.wwlabs.space) ist Octoprint zu finden.
 
 ## Anycubic Mega S
 
-<img style="float: right; width: 15em; border: 1px;" src="3D_Drucker/Anycubic_MegaS/picture.jpg" alt="drawing"/>
+<img style="float: right; width: 15em; border: 1px;" src="printer_anycubic_mega_s.jpg" alt="Anycubic i3 Mega S"/>
 
 ### Anforderungen
 
