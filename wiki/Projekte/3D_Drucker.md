@@ -25,7 +25,7 @@ Im Space haben wir mehrere 3D-Drucker. Bitte beachte die folgenden Regeln, bevor
 
 Unter [octopi.wwlabs.space](http://octopi.wwlabs.space) ist Octoprint zu finden. Logindaten sind `octopi/octopi`.
 
-### Resources
+### Resourcen
 
 - [PrusaSlicer Profil](3D_Drucker/Anycubic_MegaX/PrusaSlicer_config_MegaX.ini)
 
@@ -48,8 +48,18 @@ M420 Z2.0 ; Set leveling fading height to 2 mm
 
 Unter [octopi2.wwlabs.space](http://octopi2.wwlabs.space) is Octoprint zu finden. Logindaten sind `octopi/octopi`.
 
-### Resources
+### Resourcen
 
-- [Prusa Slicer Profil](3D_Drucker/Anycubic_MegaS/PrusaSlicer_config_MegaS.ini)
+- [Prusa Slicer Config Bundle](3D_Drucker/Anycubic_MegaS/PrusaSlicer_config_MegaS_Bundle.ini)
 - [Prusa Slicer Baseplate Model](3D_Drucker/Anycubic_MegaS/PrusaSlicer_config_MegaS_Baseplate.stl)
 - [Prusa Slicer Printbed Model](3D_Drucker/Anycubic_MegaS/PrusaSlicer_config_MegaS_Printbed.stl)
+
+# How to Import
+
+## Prusa Slicer
+
+Konfigurationsbundles (INI Dateien mit mehreren Sektionen):
+
+- Datei > Import > Importiere Konfigurationsammlung...
+
+Beim export darauf achten, das nur custom Druck/Filament profile im Export Bundle ethalten sind. Vordefinierte Profile werden nicht exportiert.
