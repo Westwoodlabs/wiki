@@ -1,11 +1,12 @@
-# Gebrauchsanweisung ~Schneidplotter~ Harry Plotter
+# Gebrauchsanweisung Harry Plotter
 
 ## Hinweis
+- Unser Schneidplotter heißt Harry Plotter
 - Das Gerät bitte nur verwenden, wenn ihr eine kurze Einweisung bekommt habt.
 - Bei Fragen gerne foorschtbar oder mirconnect ansprechen.
 
 ## Hardware
-Der Plotter im Space ist ein generischer China-Plotter mit RS232 (1x DB9 & 1x USB)
+Der Plotter im Space ist ein generischer China-Plotter mit `RS232` (1x DB9 & 1x USB)
 ### Einlegen der Folie
 Die Folienrolle wird auf den Halter geschoben, der hinten an dem Gestell des Plotters hängt. Dann wird der Halter mitsamt Folie in das Gestell gehängt und der Folienanfang von hinten in den Plotter geführt. Dafür müssen die drei Führungsrollen jeweils mit ihrem Hebel nach oben geklappt werden. Dann die Folie soweit reinschieben, dass sie ca 1cm übers Messer heraussteht und die Führungsrollen wieder herunterklappen.
 ### Setzen des Nullpunktes
