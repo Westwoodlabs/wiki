@@ -6,7 +6,7 @@
 - Bei Fragen gerne foorschtbar oder mirconnect ansprechen.
 
 ## Hardware
-Der Plotter im Space ist ein generischer China-Plotter mit `RS232` (1x DB9 & 1x USB)
+Der Plotter im Space ist ein generischer China-Plotter (ABH721) mit `RS232` (1x DB9 & 1x USB)
 ### Einlegen der Folie
 Die Folienrolle wird auf den Halter geschoben, der hinten an dem Gestell des Plotters hängt. Dann wird der Halter mitsamt Folie in das Gestell gehängt und der Folienanfang von hinten in den Plotter geführt. Dafür müssen die drei Führungsrollen jeweils mit ihrem Hebel nach oben geklappt werden. Dann die Folie soweit reinschieben, dass sie ca 1cm übers Messer heraussteht und die Führungsrollen wieder herunterklappen.
 ### Setzen des Nullpunktes
@@ -15,9 +15,10 @@ Den Button `Offline/Pause` drücken. Jetzt kann der Kopf, sowie die Folie mit de
 ### Einstellen der Schnitttiefe
 Das ist ein sehr wichtiger Schritt! Unterschiedliche Folien haben unterschiedliche Stärken. Daher bei jedem Folienwechsel die Messertiefe kontrollieren! 
 
-![Plottermesser](Plotter_Messer.png)
+Den Nullpunkt in einer Ecke der Folie setzen und dann den Button `Test` betätigen. Damit wird ein Quadrat in einem Quadrat geplottet, an dem man wunderbar die Schnitttiefe kontrollieren kann. Das Messer sollte **NICHT** in die Trägerfolie schneiden. Allerdings sollte es die eigentliche Folie komplett durchtrennen. Das ganze ist ein sehr schmaler Grat. Um das Messer zu verstellen muss am Kopf die bronzefarbene Mutter gelöst werden und dann mit dem Silbernen Rändel das Messer raus- oder reingedreht werden. Dann wieder ein Test-Quadrat plotten.  
 
-Den Nullpunkt in einer Ecke der Folie setzen und dann den Button `Test` betätigen. Damit wird ein Quadrat in einem Quadrat geplottet, an dem man wunderbar die Schnitttiefe kontrollieren kann. Das Messer sollte **NICHT** in die Trägerfolie schneiden. Allerdings sollte es die eigentliche Folie komplett durchtrennen. Das ganze ist ein sehr schmaler Grat. Um das Messer zu verstellen muss am Kopf die bronzefarbene Mutter gelöst werden und dann mit dem Silbernen Rändel das Messer raus- oder reingedreht werden. (Fotos folgen) Dann wieder ein Test-Quadrat plotten.
+![Plottermesser](Plotter_Messer.png)  
+
 Wenn sich das Quadrat gut ablösen lässt, und in der Trägerfolie quasi keine Spuren vom Messer zu sehen sind, die bronzefarbene Mutter wieder festdrehen und schon kanns losgehen.
 
 ### tl;dr:
@@ -59,7 +60,6 @@ Dann alles was sich an überflüssiger Folie um das eigentliche Motiv befindet v
 Unser aktueller Folienbestand besteht hauptsächlich aus Oracal-Folien, die es vom Vorbesitzer zum Plotter dazugab. (Danke!) In naher Zukunft werden wir wahrscheinlich einen Preis für geplottete Dinge einführen, damit wir auch wieder Folie nachkaufen können. **Die Folie ist nämlich seeehr teuer! Bitte sparsam damit umgehen!**
 
 ## Quellen & weitere Infos
-
 Weitere Informationen bei Bedarf unter:
 - [Chaospott-Wiki](https://dokuwiki.chaospott.de/geraete:schneidplotter:start)
 - [Starship-Factory-Wiki](https://wiki.starship-factory.ch/Howtos/Schneideplotter_mit_Inkscape_ansteuern/)
