@@ -17,7 +17,7 @@ Das ist ein sehr wichtiger Schritt! Unterschiedliche Folien haben unterschiedlic
 
 Den Nullpunkt in einer Ecke der Folie setzen und dann den Button `Test` betätigen. Damit wird ein Quadrat in einem Quadrat geplottet, an dem man wunderbar die Schnitttiefe kontrollieren kann. Das Messer sollte **NICHT** in die Trägerfolie schneiden. Allerdings sollte es die eigentliche Folie komplett durchtrennen. Das ganze ist ein sehr schmaler Grat. Um das Messer zu verstellen muss am Kopf die bronzefarbene Mutter gelöst werden und dann mit dem Silbernen Rändel das Messer raus- oder reingedreht werden. Dann wieder ein Test-Quadrat plotten.  
 
-<img alt="Plottermesser" src="./Plotter_Messer.png" width="600" height="450" />
+<img alt="Plottermesser" src="/wiki/Projekte/Plotter_Messer.png" width="600" height="450" />
 
 Wenn sich das Quadrat gut ablösen lässt, und in der Trägerfolie quasi keine Spuren vom Messer zu sehen sind, die bronzefarbene Mutter wieder festdrehen und schon kanns losgehen.
 
