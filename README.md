@@ -1,5 +1,5 @@
 # Westwoodlabs Wiki
 
-Ergänzungen für das Wiki sind herzlich willkommen!
+Ergänzungen für das Wiki sind Herzlich Willkommen!
 
-Hinweis: Nach dem hinzufügen von neuen Seiten, sollten diese, z.B. auf der Starteite, verlinkt werden.
+Hinweis: Nach dem Hinzufügen von neuen Seiten, sollten diese, z.B. auf der Starteite, verlinkt werden.
